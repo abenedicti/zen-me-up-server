@@ -1,0 +1,284 @@
+{
+  "programs": [
+    {
+      "id": "p1",
+      "title": "Mindfulness of Breath",
+      "description": "Take your first steps into meditation. Learn how to pause, breathe, and become aware of the present moment."
+    },
+    {
+      "id": "p2",
+      "title": "Brief Mindfulness Practices",
+      "description": "Develop calm and clarity by gently focusing your attention on the natural rhythm of your breathing."
+    },
+    {
+      "id": "p3",
+      "title": "Body Scan",
+      "description": "Reconnect with your body by moving your attention through physical sensations and releasing tension."
+    },
+    {
+      "id": "p4",
+      "title": "Seated Meditation",
+      "description": "Build a regular practice with guided sessions designed to improve focus, posture, and inner stability."
+    },
+    {
+      "id": "p5",
+      "title": "Relaxing Sounds and Bells",
+      "description": "Unwind and let go with calming soundscapes that help you relax, rest, and reset."
+    }
+  ],
+  "sessions": [
+    {
+      "id": "s101",
+      "programId": "p1",
+      "title": "Three minutes breathing",
+      "videoUrl": "https://example.com",
+      "author": "Peter Morgan",
+      "duration": 3,
+      "rating": "",
+      "description": "Discover what meditation is and how it can benefit your daily life.",
+      "userReflection": ""
+    },
+    {
+      "id": "s102",
+      "programId": "p1",
+      "title": "Five minutes breathing",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 5,
+      "rating": "",
+      "description": "Learn the importance of slowing down and creating space in your day.",
+      "userReflection": ""
+    },
+    {
+      "id": "s103",
+      "programId": "p1",
+      "title": "Daily 5 minutes breathing",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 5,
+      "rating": "",
+      "description": "Practice staying in the present moment with curiosity.",
+      "userReflection": ""
+    },
+    {
+      "id": "s104",
+      "programId": "p1",
+      "title": "Breath awareness",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 6,
+      "rating": "",
+      "description": "A simple introduction to breathing with awareness.",
+      "userReflection": ""
+    },
+    {
+      "id": "s105",
+      "programId": "p1",
+      "title": "Starting your journey",
+      "videoUrl": "https://example.com",
+      "author": "Peter Morgan",
+      "duration": 10,
+      "rating": "",
+      "description": "Put everything together and begin your meditation routine.",
+      "userReflection": ""
+    },
+    {
+      "id": "s201",
+      "programId": "p2",
+      "title": "Day by day practice",
+      "videoUrl": "https://example.com",
+      "author": "Padraig O'Morain",
+      "duration": 4,
+      "rating": "",
+      "description": "Bring attention to the natural flow of your breathing.",
+      "userReflection": ""
+    },
+    {
+      "id": "s202",
+      "programId": "p2",
+      "title": "The Breathing Space",
+      "videoUrl": "https://example.com",
+      "author": "Vidyamala Burch",
+      "duration": 5,
+      "rating": "",
+      "description": "Notice how the breath moves through the body.",
+      "userReflection": ""
+    },
+    {
+      "id": "s203",
+      "programId": "p2",
+      "title": "The Tension Release Meditation",
+      "videoUrl": "https://example.com",
+      "author": "Vidyamala Burch",
+      "duration": 5,
+      "rating": "",
+      "description": "Short session to let it go",
+      "userReflection": ""
+    },
+    {
+      "id": "s204",
+      "programId": "p2",
+      "title": "Three Step Breathing Space",
+      "videoUrl": "https://example.com",
+      "author": "Peter Morgan",
+      "duration": 3,
+      "rating": "",
+      "description": "Gently come back whenever the mind wanders.",
+      "userReflection": ""
+    },
+    {
+      "id": "s205",
+      "programId": "p2",
+      "title": "Three minute mindfulness of sounds",
+      "videoUrl": "https://example.com",
+      "author": "Peter Morgan",
+      "duration": 3,
+      "rating": "",
+      "description": "Allow the breath to anchor you in calm awareness.",
+      "userReflection": ""
+    },
+    {
+      "id": "s301",
+      "programId": "p3",
+      "title": "Posture basics",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 4,
+      "rating": "",
+      "description": "Learn how to sit comfortably and confidently.",
+      "userReflection": ""
+    },
+    {
+      "id": "s302",
+      "programId": "p3",
+      "title": "Listen to your body",
+      "videoUrl": "https://example.com",
+      "author": "Vidyamala Burch",
+      "duration": 15,
+      "rating": "",
+      "description": "Feel supported and stable in your seated position.",
+      "userReflection": ""
+    },
+    {
+      "id": "s303",
+      "programId": "p3",
+      "title": "Deep understanding",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 23,
+      "rating": "",
+      "description": "Notice thoughts without getting carried away.",
+      "userReflection": ""
+    },
+    {
+      "id": "s304",
+      "programId": "p3",
+      "title": "Moutain Meditation",
+      "videoUrl": "https://example.com",
+      "author": "Peter Morgan",
+      "duration": 8,
+      "rating": "",
+      "description": "Visualise and listen, all around you is alive",
+      "userReflection": ""
+    },
+    {
+      "id": "s305",
+      "programId": "p3",
+      "title": "Imagination",
+      "videoUrl": "https://example.com",
+      "author": "Padraig O'Morain",
+      "duration": 7,
+      "rating": "",
+      "description": "Free your mind, stop and come back to the present moment",
+      "userReflection": ""
+    },
+    {
+      "id": "s401",
+      "programId": "p4",
+      "title": "Compassionate Breath",
+      "videoUrl": "https://example.com",
+      "author": "Vidyamala Burch",
+      "duration": 11,
+      "rating": "",
+      "description": "Learn how bthe breath supports relaxation.",
+      "userReflection": ""
+    },
+    {
+      "id": "s402",
+      "programId": "p4",
+      "title": "Ten minutes of wisdom",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 10,
+      "rating": "",
+      "description": "Move attention slowly through the body.",
+      "userReflection": ""
+    },
+    {
+      "id": "s403",
+      "programId": "p4",
+      "title": "Breath, sound and body",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 12,
+      "rating": "",
+      "description": "Observe warmth, tension, or relaxation.",
+      "userReflection": ""
+    },
+    {
+      "id": "s404",
+      "programId": "p4",
+      "title": "Sitting meditation",
+      "videoUrl": "https://example.com",
+      "author": "Kieran Fleck",
+      "duration": 20,
+      "rating": "",
+      "description": "Use the breath to soften tight areas.",
+      "userReflection": ""
+    },
+    {
+      "id": "s405",
+      "programId": "p4",
+      "title": "Seated meditation",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 21,
+      "rating": "",
+      "description": "Experience the body as one connected field.",
+      "userReflection": ""
+    },
+    {
+      "id": "s501",
+      "programId": "p5",
+      "title": "Let it go",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 5,
+      "rating": "",
+      "description": "Immerse yourself in peaceful melody.",
+      "userReflection": ""
+    },
+    {
+      "id": "s502",
+      "programId": "p5",
+      "title": "Stay calm and aware",
+      "videoUrl": "https://example.com",
+      "author": "App Team",
+      "duration": 10,
+      "rating": "",
+      "description": "Let the sound freed your mind.",
+      "userReflection": ""
+    },
+    {
+      "id": "s503",
+      "programId": "p5",
+      "title": "Deep relaxation",
+      "videoUrl": "https://example.com",
+      "author": "Unknown",
+      "duration": 20,
+      "rating": "",
+      "description": "Prepare for rest with soft evening sounds.",
+      "userReflection": ""
+    }
+  ]
+}
